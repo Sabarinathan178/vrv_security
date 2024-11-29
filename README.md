@@ -148,15 +148,3 @@ rbac-ui/
 ├── public/
 └── package.json
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-Project Link: [https://github.com/kriti-raj/rbac-ui](https://github.com/kriti-raj/rbac-ui)
